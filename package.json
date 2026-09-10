@@ -1,0 +1,21 @@
+{
+  "name": "ai-tech-blog",
+  "version": "1.0.0",
+  "description": "Fully static SEO-friendly AI and technology blog",
+  "main": "public_html/index.html",
+  "scripts": {
+    "build:ftp": "echo Static files are ready in public_html"
+  },
+  "keywords": [
+    "blog",
+    "express",
+    "ejs",
+    "seo",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
